@@ -5,3 +5,7 @@ Developers use HTML and CSS to control the content and styling of a page. And th
 Throughout these files, I used the JavaScript fundamentals like variables, arrays, objects, loops, functions, the DOM and more.
 
 I also engaged in Object Oriented Programming (OOP), Functional Programming, algorithmic thinking, how to work with local storage, and how to fetch data using an API.
+
+## Acknowledgments
+
+- This repository contains code inspired by or built upon concepts learned from [freeCodeCamp] (https://www.freecodecamp.org).
